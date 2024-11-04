@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<span>
+<a href="https://codeforces.com/profile/rakshit2611">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=rakshit2611&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="Queue Codeforces Stats"/>
+</a>
+<a href="https://leetcode.com/u/rakshit2611/">
+<img height="316" src="https://leetcard.jacoblin.cool/Rakshit2611?theme=dark&font=Concert%20One&ext=activity" alt="3o12 Leetcode Stats"/>
+</a>
+</a>
+</span>
+
 <!--
 **rakshitzz/rakshitzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
