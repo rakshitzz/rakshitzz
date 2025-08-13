@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <span>
-<a href="https://codeforces.com/profile/rakshit2611">
+<a href="https://codeforces.com/profile/tihskar">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=rakshit2611&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="Queue Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/u/rakshit2611/">
